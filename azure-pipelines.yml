@@ -17,7 +17,7 @@ steps:
 
 - script: |
     npm install
-    #npm run lint
-    #npm  run prettier
-    #npm run build
+#    npm run lint
+#    npm  run prettier
+#    npm run build
   displayName: 'npm install and build'
